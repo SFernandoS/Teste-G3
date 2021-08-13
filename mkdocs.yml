@@ -1,3 +1,12 @@
+# Project information
+site_name: "AGENDA"
+site_url: https://sfernandos.github.io/Teste-G3/
+
+# Repository
+repo_name: "Fórum TutorBrasil"
+repo_url: https://sfernandos.github.io/Teste-G3/
+
+# Content Menu
 site_name: MkLorum
 site_url: https://example.com/
 nav:
