@@ -13,7 +13,7 @@ theme: readthedocs
 nav:
     - Projeto:
         - Requisitos:
-        - alguma coisa: "nada.md"
+        - alguma coisa: "nadinha.md"
     - Design:
         - Identidade visual: "project/visual-identity.md"
         - Protótipo de baixa fidelidade: "project/low-prototype.md"
