@@ -8,7 +8,7 @@ repo_url: https://sfernandos.github.io/Teste-G3/
 
 # Content Menu
 site_name: MkLorum
-site_url: https://example.com/
+site_url: https://sfernandos.github.io/Teste-G3/
 nav:
     - Home: index.md
     - About: about.md
