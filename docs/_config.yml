@@ -1,4 +1,4 @@
-theme: readthedocs
+theme: jekyll-theme-cayman
 
 # Content Menu
 nav:
