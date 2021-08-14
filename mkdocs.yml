@@ -11,4 +11,3 @@ site_url: https://sfernandos.github.io/Teste-G3/
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
