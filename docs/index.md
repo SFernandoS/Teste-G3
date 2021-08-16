@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Tema do projeto
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Super Agenda](https://user-images.githubusercontent.com/81540491/129607110-3a5a8972-01db-450e-9835-bc93c615b543.png)
 
-## Commands
+Um super aplicativo de organização acadêmica que permite gerenciar seus horários, associar com as suas displinas, receber e calcular suas notas. Além disso, é possível separar as tarefas concluídas e pendentes, personalizar as matérias por cor, professor... E claro, a super agenda vai te lembrar quando tiver um evento importante chegando.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Grupo 3 - Integrantes
+- Fernando Vargas
+- Raquel Eucaria
+- Hoton Carmo
+- João Lucas Pinto
+- Eduardo Santos
+- Pedro Henrique
+- Raul Fragoso
